@@ -1,0 +1,17 @@
+{
+  "name": "self-consistency",
+  "version": "1.0.0",
+  "description": "GenAI application that uses the self-consistency technique to generate a better final answer for the user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brajmohan",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.112.3",
+    "@google/genai": "^2.12.0",
+    "dotenv": "^17.4.2",
+    "openai": "^6.48.0"
+  }
+}
