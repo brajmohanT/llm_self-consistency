@@ -2,8 +2,10 @@
   "name": "self-consistency",
   "version": "1.0.0",
   "description": "GenAI application that uses the self-consistency technique to generate a better final answer for the user.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "brajmohan",
