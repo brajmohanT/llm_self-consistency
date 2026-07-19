@@ -4,6 +4,7 @@ This project is a CLI-based GenAI app. It takes one prompt from the terminal, se
 
 ## How It Works
 
+0. Demo is included : demo.mp4
 1. The user runs the app with `npm start`.
 2. The CLI asks for a prompt.
 3. The app sends the same prompt to OpenAI, Claude, and Gemini.
